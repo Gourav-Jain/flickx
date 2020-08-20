@@ -1,0 +1,39 @@
+
+.ui.segment {
+    border-radius: 0;
+}
+
+.ui.inverted.black.segment {
+    background-color: darkslategray!important;
+    color: #fff!important;
+}
+
+.ui.input>input { 
+        width: 700px;
+    }
+/* small tablate to big tablate */
+@media only screen and (max-width: 1023px) {
+    .ui.input>input { 
+        width: 700px;
+    }
+}
+
+/* small tablate to big tablate */
+@media only screen and (max-width: 989px) {
+    .ui.input>input { 
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 745px) {
+    .ui.input>input { 
+        width: 300px;
+    }
+}
+
+/* small phones */
+@media only screen and (max-width: 550px) {
+.ui.input>input { 
+        width: 200px;
+    }
+}

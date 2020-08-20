@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FavoriteList /> @actions should display fav list 1`] = `ShallowWrapper {}`;

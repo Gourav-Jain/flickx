@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@actions and @creators actions should return ADD_TO_FAVOURITE action 1`] = `"ADD_TO_FAVOURITE"`;
+
+exports[`@actions and @creators actions should return ADD_TO_WATCH_LATER action 1`] = `"ADD_TO_WATCH_LATER"`;
+
+exports[`@actions and @creators actions should return REMOVE_FROM_FAVOURITE action 1`] = `"REMOVE_FROM_FAVOURITE"`;
+
+exports[`@actions and @creators actions should return REMOVE_FROM_WATCH_LATER action 1`] = `"REMOVE_FROM_WATCH_LATER"`;
+
+exports[`@actions and @creators actions should return SEARCH_MOVIES_FAIL action 1`] = `"SEARCH_MOVIES_FAIL"`;
+
+exports[`@actions and @creators actions should return SEARCH_MOVIES_REQS action 1`] = `"SEARCH_MOVIES_REQS"`;
+
+exports[`@actions and @creators actions should return SEARCH_MOVIES_RESP action 1`] = `"SEARCH_MOVIES_RESP"`;
+
+exports[`@actions and @creators creators setAddToFavourites returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "ADD_TO_FAVOURITE",
+}
+`;
+
+exports[`@actions and @creators creators setAddToWatchLater returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "ADD_TO_WATCH_LATER",
+}
+`;
+
+exports[`@actions and @creators creators setRemoveFromFavourite returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "REMOVE_FROM_FAVOURITE",
+}
+`;
+
+exports[`@actions and @creators creators setRemoveFromWatchLater returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "REMOVE_FROM_WATCH_LATER",
+}
+`;
+
+exports[`@actions and @creators creators setSearchMoviesFailer returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "SEARCH_MOVIES_FAIL",
+}
+`;
+
+exports[`@actions and @creators creators setSearchMoviesRequest returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "SEARCH_MOVIES_REQS",
+}
+`;
+
+exports[`@actions and @creators creators setSearchMoviesResponse returns correctly 1`] = `
+Object {
+  "payload": "mock-data",
+  "type": "SEARCH_MOVIES_RESP",
+}
+`;

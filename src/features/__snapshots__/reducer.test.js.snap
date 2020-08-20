@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create app reducer should return sucessfull setAddToFavourites 1`] = `""`;
+
+exports[`Create app reducer should return sucessfull setAddToWatchLater 1`] = `""`;
+
+exports[`Create app reducer should return sucessfull setRemoveFromFavourite 1`] = `""`;
+
+exports[`Create app reducer should return sucessfull setRemoveFromWatchLater 1`] = `""`;
+
+exports[`Create app reducer should return sucessfull setSearchMoviesFailer 1`] = `Object {}`;
+
+exports[`Create app reducer should return sucessfull setSearchMoviesRequest 1`] = `Object {}`;
+
+exports[`Create app reducer should return sucessfull setSearchMoviesResponse 1`] = `Object {}`;
