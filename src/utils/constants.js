@@ -1,4 +1,4 @@
-export const API_KEY = "ac6135d57f8ed002f7b29251b1d30448";
+export const API_KEY = "";
 
 export const API_SERACH_MOVIE_URL = `https://api.themoviedb.org/3/search/movie`;
 export const API_POPULAR_MOVIE_URL = `https://api.themoviedb.org/3/movie/popular`;
